@@ -1,3 +1,3 @@
 # Starbucks
 
-url : (starbucsk)[https://kh-starbucks.netlify.app/]
+url : [STARBUCKS](https://kh-starbucks.netlify.app/)
